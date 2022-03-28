@@ -1,0 +1,12 @@
+.headerText{
+    display: flex;
+    justify-content: center;
+}
+.header_menu{
+    /* position: relative;
+    left: -20px; */
+}
+.menuIcon{
+    color: cornflowerblue;
+    /* background: cyan; */
+}

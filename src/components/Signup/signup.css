@@ -1,0 +1,33 @@
+.signUpCardWidth{
+    max-width: 90%;
+    position: relative;
+    top: 10%;
+
+}
+
+.headingText{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.userInput{
+    height: 40px;
+    /* padding: 60px; */
+    font-size: 16px;
+    border-bottom: 1px solid darkgray;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 16px;
+    
+}
+.signUpBtn{
+    margin-top: 30px;
+}
+/* .placeholder{
+    padding: 20px;
+} */
+
+.inputField{
+    padding: 10px 30px 10px 30px;
+}
+

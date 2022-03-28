@@ -1,0 +1,21 @@
+.cardWidth{
+    max-width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 20%;
+}
+.signInHeading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.userInput{
+    height: 40px;
+    font-size: 16px;
+    border-bottom: 1px solid darkgray;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.signInBtn{
+    margin: 30px 0px 10px 0px;
+}
